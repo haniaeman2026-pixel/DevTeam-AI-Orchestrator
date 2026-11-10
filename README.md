@@ -1,7 +1,6 @@
- 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=DevTeam%20AI&fontSize=76&fontColor=FFFFFF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&color=0:080B20,40:24105C,100:6D28D9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,20:171044,45:312E81,75:6D28D9,100:0891B2&height=280&section=header&text=DevTeam%20AI&fontSize=78&fontColor=FFFFFF&fontAlignY=42&desc=INTELLIGENT%20MULTI-AGENT%20DEVELOPMENT&descSize=15&descColor=BAE6FD&descAlignY=62&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=AI-Powered+Software+Engineering;Your+Intelligent+Multi-Agent+Development+Team;Plan.+Build.+Test.+Review.+Deliver." />
 
