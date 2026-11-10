@@ -1,94 +1,149 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090E2B,50:312E81,100:6D28D9&height=180&section=header&text=DevTeam%20AI%20Orchestrator&fontSize=34&fontColor=FFFFFF&fontAlignY=45&desc=Multi-Agent%20Software%20Development%20System&descSize=15&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=DevTeam%20AI&fontSize=76&fontColor=FFFFFF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&color=0:080B20,40:24105C,100:6D28D9" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=AI-Powered+Software+Engineering;Your+Intelligent+Multi-Agent+Development+Team;Plan.+Build.+Test.+Review.+Deliver." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Intelligent+Multi-Agent+Collaboration;Plan+%7C+Develop+%7C+Test+%7C+Review;AI-Powered+Software+Engineering" alt="Typing SVG" />
+<sub>AN INTELLIGENT MULTI-AGENT SOFTWARE DEVELOPMENT WORKSPACE</sub>
+
+<br/><br/>
+
+[![Python](https://img.shields.io/badge/Python-0B1026?style=for-the-badge&logo=python&logoColor=60A5FA)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0B1026?style=for-the-badge&logo=fastapi&logoColor=34D399)](https://fastapi.tiangolo.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-0B1026?style=for-the-badge&logo=langchain&logoColor=A78BFA)](https://www.langchain.com/langgraph)
+[![Gemini](https://img.shields.io/badge/Gemini_AI-0B1026?style=for-the-badge&logo=googlegemini&logoColor=60A5FA)](https://ai.google.dev)
+[![React](https://img.shields.io/badge/React-0B1026?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 
 <br/>
 
-**An AI-Powered Multi-Agent Software Development Workspace**
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Turning Software Requirements Into Intelligent Development Workflows.**
 
 </div>
 
 ---
 
-## ✨ Overview
+## ◈ THE VISION
 
-**DevTeam AI Orchestrator** is an intelligent software development system that coordinates multiple specialized AI agents to transform software requirements into structured development workflows.
+DevTeam AI Orchestrator introduces a collaborative approach to software engineering.
 
-Instead of relying on a single AI assistant, DevTeam AI distributes development responsibilities across dedicated agents.
+Instead of depending on one general-purpose AI assistant, it coordinates a specialized team of AI agents. Each agent handles a dedicated development responsibility, working together through an orchestrated LangGraph workflow.
 
-From requirement analysis to final reporting, each agent contributes to a coordinated software engineering process powered by **LangGraph**.
+From the first requirement to the final development report, the system brings planning, implementation, testing, and code review into one unified workspace.
 
-## 🚀 Core Capabilities
+## ◈ MEET YOUR AI DEVELOPMENT TEAM
 
-- 🤖 Multi-Agent Software Development
-- 📋 Automated Requirement Analysis & Planning
-- 💻 AI-Powered Code Generation
-- 🔍 Automated Quality Assurance
-- 🧪 Pytest Execution & Test Reporting
-- 🛡️ Intelligent Code Review
-- 📊 Structured Development Reports
-- 🗂️ SQLite-Based Project History
-- ⚡ FastAPI REST API
-- 🎨 React-Based Development Workspace
-- 🧠 Google Gemini Integration
+<table>
+<tr>
+<td width="50%">
 
-## 🧠 AI Agent Team
+### ◉ 01 — PROJECT PLANNER
 
-| Agent | Responsibility |
-|---|---|
-| Project Planner | Analyzes requirements and creates development plans |
-| Software Developer | Generates software implementation |
-| QA Engineer | Examines implementation and identifies issues |
-| Test Runner | Executes available automated tests |
-| Code Reviewer | Evaluates code quality and suggests improvements |
-| Report Generator | Creates structured development reports |
+Analyzes user requirements and transforms them into structured development plans.
 
-## ⚙️ System Architecture
+</td>
+<td width="50%">
+
+### ◉ 02 — SOFTWARE DEVELOPER
+
+Generates project implementation based on the approved development plan.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ◉ 03 — QA ENGINEER
+
+Evaluates implementation quality and identifies potential issues.
+
+</td>
+<td width="50%">
+
+### ◉ 04 — TEST RUNNER
+
+Executes available automated tests using Pytest.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ◉ 05 — CODE REVIEWER
+
+Reviews code quality, identifies weaknesses, and suggests improvements.
+
+</td>
+<td width="50%">
+
+### ◉ 06 — REPORT GENERATOR
+
+Produces a structured summary of the development workflow and results.
+
+</td>
+</tr>
+</table>
+
+## ◈ INTELLIGENT WORKFLOW
+
+<div align="center">
 
 ```mermaid
 flowchart TD
-    A["User Requirement"] --> B["Project Planner"]
-    B --> C["Software Developer"]
-    C --> D["QA Engineer"]
-    D --> E["Test Runner"]
-    E --> F["Code Reviewer"]
-    F --> G["Report Generator"]
-    G --> H["Final Project Result"]
-    H --> I[("SQLite Database")]
+    A(["USER REQUIREMENT"]) --> B["PROJECT PLANNER"]
+    B --> C["SOFTWARE DEVELOPER"]
+    C --> D["QA ENGINEER"]
+    D --> E["AUTOMATED TEST RUNNER"]
+    E --> F["CODE REVIEWER"]
+    F --> G["REPORT GENERATOR"]
+    G --> H(["FINAL PROJECT RESULT"])
+    H --> I[("SQLITE DATABASE")]
 
-    style A fill:#312E81,color:#fff
-    style H fill:#6D28D9,color:#fff
-    style I fill:#164E63,color:#fff
+    style A fill:#312E81,color:#fff,stroke:#A78BFA
+    style B fill:#171B3B,color:#C4B5FD,stroke:#8B5CF6
+    style C fill:#171B3B,color:#C4B5FD,stroke:#8B5CF6
+    style D fill:#171B3B,color:#C4B5FD,stroke:#8B5CF6
+    style E fill:#171B3B,color:#C4B5FD,stroke:#8B5CF6
+    style F fill:#171B3B,color:#C4B5FD,stroke:#8B5CF6
+    style G fill:#171B3B,color:#C4B5FD,stroke:#8B5CF6
+    style H fill:#6D28D9,color:#fff,stroke:#C4B5FD
+    style I fill:#164E63,color:#fff,stroke:#67E8F9
 ```
 
-## 🛠️ Technology Stack
+**ONE REQUIREMENT → SIX SPECIALIZED AGENTS → ONE COORDINATED RESULT**
 
-| Technology | Purpose |
+</div>
+
+## ◈ CORE CAPABILITIES
+
+| Capability | Description |
 |---|---|
-| Python | Backend Development |
-| FastAPI | REST API |
-| LangGraph | Agent Workflow Orchestration |
-| Google Gemini | AI Model Integration |
-| React | Frontend Interface |
-| Vite | Frontend Development |
-| Tailwind CSS | UI Styling |
-| SQLite | Database & Persistence |
-| Pytest | Automated Testing |
+| Multi-Agent AI | Specialized agents for development tasks |
+| Requirement Analysis | Automated project understanding |
+| Code Generation | AI-powered implementation |
+| Quality Assurance | Automated implementation review |
+| Test Automation | Pytest execution |
+| Code Intelligence | AI-assisted code review |
+| Project History | SQLite persistence |
+| API Integration | FastAPI backend |
+| AI Integration | Google Gemini |
+| Web Workspace | React-based frontend |
 
-## 📁 Project Structure
+## ◈ TECHNOLOGY ECOSYSTEM
+
+<div align="center">
+
+| BACKEND | AI & ORCHESTRATION | FRONTEND | STORAGE & TESTING |
+|:---:|:---:|:---:|:---:|
+| Python | Gemini | React | SQLite |
+| FastAPI | LangGraph | Vite | Pytest |
+| REST API | AI Agents | Tailwind CSS | Database |
+
+</div>
+
+## ◈ PROJECT ARCHITECTURE
 
 ```text
 DevTeam-AI-Orchestrator/
@@ -124,66 +179,46 @@ DevTeam-AI-Orchestrator/
 └── requirements.txt
 ```
 
-## 💻 Installation & Setup
+## ◈ GETTING STARTED
 
-### 1. Clone Repository
+**01. Clone the Repository**
 
 ```bash
 git clone https://github.com/haniaeman2026-pixel/DevTeam-AI-Orchestrator.git
-
 cd DevTeam-AI-Orchestrator
 ```
 
-### 2. Create Virtual Environment
+**02. Create Virtual Environment**
 
 ```bash
 python -m venv .venv
-```
-
-Activate on Windows:
-
-```powershell
 .\.venv\Scripts\Activate.ps1
 ```
 
-### 3. Install Dependencies
+**03. Install Dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Configure Environment Variables
+**04. Configure API Credentials**
 
-Create a `.env` file in the root directory:
+Create `.env` in the root directory:
 
 ```env
 GOOGLE_API_KEY=your_google_api_key
 GEMINI_MODEL=your_supported_gemini_model
 ```
 
-**Important:** Replace the placeholders with your actual API credentials and a model supported by your Gemini API setup. Never upload `.env` to GitHub.
+Never commit your API credentials to GitHub.
 
-### 5. Run Backend
+**05. Launch Backend**
 
 ```bash
 python -m uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-Backend:
-
-```text
-http://127.0.0.1:8000
-```
-
-API Documentation:
-
-```text
-http://127.0.0.1:8000/docs
-```
-
-### 6. Run Frontend
-
-Open another terminal:
+**06. Launch Frontend**
 
 ```bash
 cd frontend
@@ -191,22 +226,26 @@ npm install
 npm run dev
 ```
 
-Frontend:
+<div align="center">
 
-```text
-http://localhost:5173
-```
+| SERVICE | LOCAL ADDRESS |
+|:---|:---|
+| Backend | `http://127.0.0.1:8000` |
+| API Documentation | `http://127.0.0.1:8000/docs` |
+| Frontend | `http://localhost:5173` |
 
-## 🔌 API Endpoints
+</div>
 
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | `/api/health` | Backend health check |
-| GET | `/api/projects` | Retrieve project history |
-| GET | `/api/projects/{project_id}` | Retrieve project details |
-| POST | `/api/workflow/run` | Execute AI development workflow |
+## ◈ API REFERENCE
 
-### Example Workflow Request
+| METHOD | ENDPOINT | FUNCTION |
+|:---:|---|---|
+| GET | `/api/health` | Backend status |
+| GET | `/api/projects` | Project history |
+| GET | `/api/projects/{project_id}` | Project details |
+| POST | `/api/workflow/run` | Execute AI workflow |
+
+**Example Request**
 
 ```json
 {
@@ -214,56 +253,29 @@ http://localhost:5173
 }
 ```
 
-## 🔄 Development Workflow
+## ◈ WHAT'S NEXT?
 
-```text
-USER REQUIREMENT
-       |
-       v
-REQUIREMENT ANALYSIS
-       |
-       v
-DEVELOPMENT PLANNING
-       |
-       v
-AI CODE GENERATION
-       |
-       v
-QUALITY ASSURANCE
-       |
-       v
-AUTOMATED TESTING
-       |
-       v
-CODE REVIEW
-       |
-       v
-FINAL REPORT
-```
-
-## 🔮 Future Enhancements
-
-- Real-Time Agent Execution Monitoring
-- Human-in-the-Loop Approval
+- Real-Time Agent Monitoring
+- Human Approval Checkpoints
 - Advanced Code Validation
 - Multi-Language Development
-- Project Export & Download
+- Project Export Capabilities
 - Enhanced Workflow Analytics
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Developed+by+Hania+Eman;AI+%26+Data+Science;Building+Intelligent+AI+Systems" alt="Developer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Developed+by+Hania+Eman;AI+%26+Data+Science+Developer;Building+Intelligent+AI+Systems" />
 
 <br/>
 
-**Hania Eman**
+**HANIA EMAN**
 
-AI & Data Science | Python | AI Agents | Machine Learning
+<sub>AI & DATA SCIENCE · PYTHON · AI AGENTS · MACHINE LEARNING</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E2B,50:312E81,100:6D28D9&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B20,50:312E81,100:6D28D9&height=130&section=footer" width="100%" />
 
 </div>
